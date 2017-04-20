@@ -1,41 +1,13 @@
-This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
+![swuber_3](https://cloud.githubusercontent.com/assets/11463275/25136927/4fd60eea-2424-11e7-989d-d6630c5b0827.png)
 
-### Getting started
+## Why Swuber?
+It started in parking lot 14; on the way to class I asked a friend if they could give me a ride. the friend was not leaving but also going to class. As a result we walked together and not alone. Later when leaving the library I was forced to walk alone by lack of communication and lack of traffic at that hour.  
 
-1. [Install Android Studio](http://developer.android.com/sdk/index.html), make sure that the [Android SDK Tools](http://developer.android.com/sdk/index.html#Other) are properly installed and install the [appropriate packages](http://developer.android.com/sdk/installing/adding-packages.html) for the platforms you want to target.
+I did not want to walk to my car. I waited outside the library for someone I knew. Eventually I gave up but the idea was born. Generosity(reputation) and the capital of my parking spot could be used to get me to my car without having to walk alone. 
 
-2. [Download](https://github.com/slymax/webview/archive/master.zip) or clone this repository and import it into Android Studio.
+For years people have tried to solve the problem of finding a parking spot at the University of North Florida.
+#### *We solved "the parking problem" in order to solve a "walking problem"*
+<hr>
 
-### Using a remote source
-
-If you want to create an app that displays the contents of a remote website
-
-1. uncomment **line 31** in `MainActivity.java` and change `http://example.com` to match your remote source
-
-	```
-	mWebView.loadUrl("http://example.com");
-	```
-
-2. uncomment **line 34**
-
-	```
-	mWebView.setWebViewClient(new MyAppWebViewClient());
-	```
-
-3. open the `MyAppWebViewClient.java` file and replace `example.com` in **line 12** with your custom url
-
-	```
-	if (Uri.parse(url).getHost().endsWith("example.com")) {
-	```
-
-### Using a local source
-
-If you want to create a local HTML5 android app
-
-1. uncomment **line 37** in `MainActivity.java`
-
-	```
-	mWebView.loadUrl("file:///android_asset/www/index.html");
-	```
-
-2. replace the boilerplate website in `src/main/assets/www/` with your own HTML, CSS and JavaScript files
+template used https://github.com/slymax/webview<br>
+everything following that should be simple and is my implementation.
