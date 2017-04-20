@@ -1,4 +1,4 @@
-package com.example.app;
+package com.swuber.app;
 
 import android.app.Activity;
 import android.os.Bundle;

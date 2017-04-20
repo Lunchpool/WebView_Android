@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c535e7d7157f64bec37bae5bb70c7851375f7b93">
-        <dex dex="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d1b3ba83ca143fba76a433e2a1babb72e359703/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/zen1/StudioProjects/unf-swuber_Android/swuber/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_682da3310d1ddf078d3ddb93b2f6248d3e3e3f56/classes.dex" />
+        <dex dex="/Users/zen1/StudioProjects/unf-swuber_Android/swuber/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_85fee69d6c273ba90e818e7a695af24f7710724f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zen1/StudioProjects/unf-swuber_Android/swuber/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d633319add2e206cc91b0a0ac1eef53c97ac67c8">
+        <dex dex="/Users/zen1/StudioProjects/unf-swuber_Android/swuber/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e70ef58fd6c2362c3acaa1cde5f611dd45aeabfe/classes.dex" />
     </item>
 
 </items>
