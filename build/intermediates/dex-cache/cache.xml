@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c535e7d7157f64bec37bae5bb70c7851375f7b93">
+        <dex dex="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d1b3ba83ca143fba76a433e2a1babb72e359703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/zen1/StudioProjects/swuber_quickAndroidAttempt/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_682da3310d1ddf078d3ddb93b2f6248d3e3e3f56/classes.dex" />
+    </item>
+
+</items>
