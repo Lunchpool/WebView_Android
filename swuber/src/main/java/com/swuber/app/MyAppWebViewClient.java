@@ -9,7 +9,7 @@ public class MyAppWebViewClient extends WebViewClient {
 
     @Override
     public boolean shouldOverrideUrlLoading(WebView view, String url) {
-        if (Uri.parse(url).getHost().endsWith("https://unf-swuber.herokuapp.com")) {
+        if (Uri.parse(url).getHost().endsWith("http://lunchpool-dev.firebaseapp.com")) {
             return false;
         }
 

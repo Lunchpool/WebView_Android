@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         // Use remote resource
-        mWebView.loadUrl("https://unf-swuber.herokuapp.com");
+        mWebView.loadUrl("http://lunchpool-dev.firebaseapp.com");
 
         // Stop local links and redirects from opening in browser instead of WebView
         mWebView.setWebViewClient(new MyAppWebViewClient());
