@@ -1,4 +1,4 @@
-package com.swuber.app;
+package com.lunchpool.app;
 
 import android.app.Activity;
 import android.os.Bundle;

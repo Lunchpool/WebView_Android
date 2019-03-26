@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/swuber/swuber.iml" filepath="$PROJECT_DIR$/swuber/swuber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/unf-swuber_Android.iml" filepath="$PROJECT_DIR$/unf-swuber_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunchpool/lunchpool.iml" filepath="$PROJECT_DIR$/lunchpool/lunchpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unf-lunchpool_Android.iml" filepath="$PROJECT_DIR$/unf-lunchpool_Android.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.swuber.app;
+package com.lunchpool.app;
 
 import android.content.Intent;
 import android.net.Uri;
